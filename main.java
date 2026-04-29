@@ -40,6 +40,13 @@ public class Main {
 
         frame.add(rootPanel);
         frame.setLocationRelativeTo(null); // Fixed spelling
+        try {
+    // This tells Java to run your C++ Engine executable
+    Runtime.getRuntime().exec("./EEngine.exe"); 
+    System.out.println("C++ Engine Started!");
+} catch (Exception e) {
+    System.out.println("Could not find EngineCore. Build it first!");
+}
         frame.setVisible(true);
     }
 }
