@@ -12,6 +12,7 @@ If you have an issue, go to the issues tab and ask to fix your issue with a vide
 
 ### Things We Are Working On:
 
+- app itself
 
 - gui
 
