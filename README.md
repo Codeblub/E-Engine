@@ -8,37 +8,37 @@ It's a game engine, It's an animating engine, It's an object/character design, i
 We would like to add:
 
 
-Gui
++ Gui
 
 
-Adding an animation tab
+- Adding an animation tab
 
 
-Adding joints to characters
+- Adding joints to characters
 
 
-Adding physics
+- Adding physics
 
 
-3d rendering
+- 3d rendering
 
 
-3d object support
+- 3d object support
 
 
-A file explorer
+- A file explorer
 
 
-Object movement
+- Object movement
 
 
-Object creation
+- Object creation
 
 
-Texture maker
+- Texture maker
 
 
-A paint bit
+- A paint bit
 
 
-THERES TOO MUCH I GIVE UP
+THERES TOO MUCH I GIVE UP -RBKing
