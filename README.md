@@ -4,6 +4,12 @@
 It's a game engine, It's an animating engine, It's an object/character design, its a texture making, rig maker and more!
 
 
+
+## Isssues:
+
+If you have an issue, go to the issues tab and ask to fix your issue with a video or screenshot on how the bug works. We will try to fix it as fast as possible.
+
+
 ### Things We Are Working On:
 
 
@@ -15,7 +21,7 @@ It's a game engine, It's an animating engine, It's an object/character design, i
 
 - Importing objects
 
--Codeblub
+ -- Codeblub
 ### Future plans
 
 We would like to add:
@@ -54,4 +60,4 @@ We would like to add:
 - A paint bit
 
 
-THERES TOO MUCH I GIVE UP -RBKing
+THERES TOO MUCH I GIVE UP -- RBKing
