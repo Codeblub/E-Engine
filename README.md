@@ -3,7 +3,9 @@
 ### What is it?
 It's a game engine, It's an animating engine, It's an object/character design, its a texture making, rig maker and more!
 
+## Known Issues:
 
+ - Gui is laggy
 
 ## Isssues:
 
