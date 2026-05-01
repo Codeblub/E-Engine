@@ -28,8 +28,6 @@ If you have an issue, go to the issues tab and ask to fix your issue with a vide
 We would like to add:
 
 
-+ Gui
-
 
 - Adding an animation tab
 
